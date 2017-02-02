@@ -5,7 +5,6 @@ var optionsBtn = document.getElementsByClassName('option');
 var footer = document.getElementsByTagName('footer')[0];
 var optionDiv = document.getElementsByClassName('options')[0];
 
-
 function startQuiz() {
 
   if (quiz.end()) {
